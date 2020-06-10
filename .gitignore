@@ -12,6 +12,13 @@ DotweenDemo/Logs/
 DotweenDemo/obj/
 DotweenDemo/Temp/
 
+GoogleAdmobDemo/.vs/
+GoogleAdmobDemo/.vscode/
+GoogleAdmobDemo/Library/
+GoogleAdmobDemo/Logs/
+GoogleAdmobDemo/obj/
+GoogleAdmobDemo/Temp/
+
 *.csproj
 *.suo
 *.sln
